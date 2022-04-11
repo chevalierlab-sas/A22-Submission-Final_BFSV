@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Book</string>
+    <string name="home">Home</string>
+    <string name="whistlist">Whistlist</string>
+    <string name="about">About</string>
+    <string name="develop_by">Develop by:</string>
+    <string name="qualanque_team">Qualanque Team</string>
+</resources>
